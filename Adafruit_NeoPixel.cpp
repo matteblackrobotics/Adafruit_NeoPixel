@@ -5,7 +5,7 @@
  * FLORA RGB Smart Pixels and compatible devicess -- WS2811, WS2812, WS2812B,
  * SK6812, etc.
  *
- * // test 
+ * // test1 branch 
  * 
  * @section intro_sec Introduction
  *
