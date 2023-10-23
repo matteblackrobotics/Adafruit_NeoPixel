@@ -5,6 +5,8 @@
  * FLORA RGB Smart Pixels and compatible devicess -- WS2811, WS2812, WS2812B,
  * SK6812, etc.
  *
+ * // test 
+ * 
  * @section intro_sec Introduction
  *
  * This is the documentation for Adafruit's NeoPixel library for the
